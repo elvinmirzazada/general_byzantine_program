@@ -10,4 +10,4 @@ Starting the program:
 *N - count of processes/nodes
 
 
-The process mini demo video: https://drive.google.com/file/d/1xSt2bqqPDTLPWctpwYvh6N8nJWsCK8xc/view?usp=sharing
+The process mini demo video: https://drive.google.com/file/d/1lHJi_gOWTUusnDRqbJayAs4D6eHzYdT1/view?usp=sharing
